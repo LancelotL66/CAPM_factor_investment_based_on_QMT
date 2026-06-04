@@ -1,0 +1,4 @@
+dqtrader
+numpy
+pandas
+statsmodels
